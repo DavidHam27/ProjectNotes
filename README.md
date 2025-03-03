@@ -21,3 +21,21 @@
 
 ### Task 1b ###
 
+##Design Documents
+-Flow Chart
+-ERD (Entity Relationship Diagram)
+-User Centric Diagram
+-Variable Table
+-Test Log/Table
+-Visula Designs #MULTIPLE# (talk about designs and the choices you made for them)
+
+### Task 2 ###
+
+-Program that shit fr fr
+-Fill out test log
+-Version Log
+
+### Task 3a ###
+
+##Feedback
+-Online Surveys
